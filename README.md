@@ -24,7 +24,7 @@ It uses OCR, computer vision, and a user-friendly interface to map your data ont
 
 1. Clone this repo:
     ```
-    git clone https://github.com/yourusername/Automatic_Form_Filler_AI.git
+    git clone https://github.com/A4xPraddy/Automatic_Form_Filler_AI.git
     cd Automatic_Form_Filler_AI
     ```
 
